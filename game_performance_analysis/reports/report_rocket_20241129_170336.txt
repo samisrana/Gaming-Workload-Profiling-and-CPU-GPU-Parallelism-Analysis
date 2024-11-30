@@ -1,0 +1,28 @@
+Performance Report for rocket
+==================================================
+
+Session Duration: 0:00:41
+
+GPU Performance:
+- Average Utilization: 27.5%
+- Peak Utilization: 44.0%
+- Average Memory Used: 3626MB
+- Peak Memory Used: 3633MB
+- Maximum Temperature: 42.0°C
+- Average Power Draw: 25.9W
+
+System Performance:
+- Average CPU Usage: 0.2%
+- Peak CPU Usage: 0.3%
+- Average Memory Usage: 7.6%
+
+Comparison with Phase 1 Simulation:
+Simulation Results:
+- CPU Version:
+  * Light workload: ~12 FPS
+  * CPU usage: 10-14%
+- GPU Version:
+  * Light workload: ~7 FPS
+  * CPU usage: ~6%
+  * GPU utilization: 20% → 8.5% → 1.5%
+  * GPU memory scaling: 1900MB → 3200MB

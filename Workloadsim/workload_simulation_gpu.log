@@ -1,0 +1,312 @@
+2024-11-27 13:22:27,839 - INFO - Starting GPU simulation - Resolution: (1920, 1080), Threads: 16, Intensity: medium
+2024-11-27 13:22:28,338 - INFO - GPU Frame rendered in 0.4068 seconds
+2024-11-27 13:22:29,354 - INFO - GPU Physics simulation completed in 0.7897 seconds
+2024-11-27 13:22:29,868 - INFO - AI simulation completed in 0.5117 seconds
+2024-11-27 13:22:29,868 - INFO - Frame completed - Time: 2.0291s, FPS: 0.49
+2024-11-27 13:22:29,884 - INFO - GPU Frame rendered in 0.0149 seconds
+2024-11-27 13:22:30,030 - INFO - GPU Physics simulation completed in 0.0581 seconds
+2024-11-27 13:22:30,524 - INFO - AI simulation completed in 0.4918 seconds
+2024-11-27 13:22:30,524 - INFO - Frame completed - Time: 0.6557s, FPS: 1.53
+2024-11-27 13:22:30,540 - INFO - GPU Frame rendered in 0.0150 seconds
+2024-11-27 13:22:30,685 - INFO - GPU Physics simulation completed in 0.0565 seconds
+2024-11-27 13:22:31,174 - INFO - AI simulation completed in 0.4870 seconds
+2024-11-27 13:22:31,174 - INFO - Frame completed - Time: 0.6492s, FPS: 1.54
+2024-11-27 13:22:31,192 - INFO - GPU Frame rendered in 0.0167 seconds
+2024-11-27 13:22:31,347 - INFO - GPU Physics simulation completed in 0.0563 seconds
+2024-11-27 13:22:31,847 - INFO - AI simulation completed in 0.4983 seconds
+2024-11-27 13:22:31,847 - INFO - Frame completed - Time: 0.6727s, FPS: 1.49
+2024-11-27 13:22:31,872 - INFO - GPU Frame rendered in 0.0146 seconds
+2024-11-27 13:22:32,027 - INFO - GPU Physics simulation completed in 0.0608 seconds
+2024-11-27 13:22:32,537 - INFO - AI simulation completed in 0.5089 seconds
+2024-11-27 13:22:32,538 - INFO - Frame completed - Time: 0.6805s, FPS: 1.47
+2024-11-27 13:22:32,553 - INFO - GPU Frame rendered in 0.0145 seconds
+2024-11-27 13:22:32,701 - INFO - GPU Physics simulation completed in 0.0592 seconds
+2024-11-27 13:22:33,179 - INFO - AI simulation completed in 0.4769 seconds
+2024-11-27 13:22:33,180 - INFO - Frame completed - Time: 0.6414s, FPS: 1.56
+2024-11-27 13:22:33,194 - INFO - GPU Frame rendered in 0.0135 seconds
+2024-11-27 13:22:33,340 - INFO - GPU Physics simulation completed in 0.0573 seconds
+2024-11-27 13:22:33,829 - INFO - AI simulation completed in 0.4869 seconds
+2024-11-27 13:22:33,829 - INFO - Frame completed - Time: 0.6487s, FPS: 1.54
+2024-11-27 13:22:33,844 - INFO - GPU Frame rendered in 0.0144 seconds
+2024-11-27 13:22:33,990 - INFO - GPU Physics simulation completed in 0.0572 seconds
+2024-11-27 13:22:34,512 - INFO - AI simulation completed in 0.5197 seconds
+2024-11-27 13:22:34,512 - INFO - Frame completed - Time: 0.6824s, FPS: 1.47
+2024-11-27 13:22:34,527 - INFO - GPU Frame rendered in 0.0144 seconds
+2024-11-27 13:22:34,673 - INFO - GPU Physics simulation completed in 0.0572 seconds
+2024-11-27 13:22:35,170 - INFO - AI simulation completed in 0.4959 seconds
+2024-11-27 13:22:35,171 - INFO - Frame completed - Time: 0.6582s, FPS: 1.52
+2024-11-27 13:22:35,186 - INFO - GPU Frame rendered in 0.0146 seconds
+2024-11-27 13:22:35,332 - INFO - GPU Physics simulation completed in 0.0575 seconds
+2024-11-27 13:22:35,846 - INFO - AI simulation completed in 0.5118 seconds
+2024-11-27 13:22:35,846 - INFO - Frame completed - Time: 0.6749s, FPS: 1.48
+2024-11-27 13:22:35,861 - INFO - GPU Frame rendered in 0.0138 seconds
+2024-11-27 13:22:36,007 - INFO - GPU Physics simulation completed in 0.0569 seconds
+2024-11-27 13:22:36,528 - INFO - AI simulation completed in 0.5190 seconds
+2024-11-27 13:22:36,529 - INFO - Frame completed - Time: 0.6820s, FPS: 1.47
+2024-11-27 13:22:36,551 - INFO - GPU Frame rendered in 0.0212 seconds
+2024-11-27 13:22:36,713 - INFO - GPU Physics simulation completed in 0.0637 seconds
+2024-11-27 13:22:37,213 - INFO - AI simulation completed in 0.4968 seconds
+2024-11-27 13:22:37,214 - INFO - Frame completed - Time: 0.6841s, FPS: 1.46
+2024-11-27 13:22:37,229 - INFO - GPU Frame rendered in 0.0147 seconds
+2024-11-27 13:22:37,388 - INFO - GPU Physics simulation completed in 0.0633 seconds
+2024-11-27 13:22:37,885 - INFO - AI simulation completed in 0.4950 seconds
+2024-11-27 13:22:37,886 - INFO - Frame completed - Time: 0.6716s, FPS: 1.49
+2024-11-27 13:22:37,900 - INFO - GPU Frame rendered in 0.0135 seconds
+2024-11-27 13:22:38,056 - INFO - GPU Physics simulation completed in 0.0670 seconds
+2024-11-27 13:22:38,580 - INFO - AI simulation completed in 0.5226 seconds
+2024-11-27 13:22:38,581 - INFO - Frame completed - Time: 0.6946s, FPS: 1.44
+2024-11-27 13:22:38,595 - INFO - GPU Frame rendered in 0.0135 seconds
+2024-11-27 13:22:38,743 - INFO - GPU Physics simulation completed in 0.0582 seconds
+2024-11-27 13:22:39,233 - INFO - AI simulation completed in 0.4882 seconds
+2024-11-27 13:22:39,233 - INFO - Frame completed - Time: 0.6516s, FPS: 1.53
+2024-11-27 13:22:39,248 - INFO - GPU Frame rendered in 0.0144 seconds
+2024-11-27 13:22:39,395 - INFO - GPU Physics simulation completed in 0.0575 seconds
+2024-11-27 13:22:39,889 - INFO - AI simulation completed in 0.4926 seconds
+2024-11-27 13:22:39,890 - INFO - Frame completed - Time: 0.6560s, FPS: 1.52
+2024-11-27 13:22:39,904 - INFO - GPU Frame rendered in 0.0136 seconds
+2024-11-27 13:22:40,049 - INFO - GPU Physics simulation completed in 0.0567 seconds
+2024-11-27 13:22:40,593 - INFO - AI simulation completed in 0.5423 seconds
+2024-11-27 13:22:40,594 - INFO - Frame completed - Time: 0.7036s, FPS: 1.42
+2024-11-27 13:22:40,611 - INFO - GPU Frame rendered in 0.0164 seconds
+2024-11-27 13:22:40,765 - INFO - GPU Physics simulation completed in 0.0591 seconds
+2024-11-27 13:22:41,254 - INFO - AI simulation completed in 0.4869 seconds
+2024-11-27 13:22:41,255 - INFO - Frame completed - Time: 0.6601s, FPS: 1.51
+2024-11-27 13:22:41,270 - INFO - GPU Frame rendered in 0.0147 seconds
+2024-11-27 13:22:41,416 - INFO - GPU Physics simulation completed in 0.0577 seconds
+2024-11-27 13:22:41,923 - INFO - AI simulation completed in 0.5043 seconds
+2024-11-27 13:22:41,923 - INFO - Frame completed - Time: 0.6680s, FPS: 1.50
+2024-11-27 13:22:41,940 - INFO - GPU Frame rendered in 0.0164 seconds
+2024-11-27 13:22:42,091 - INFO - GPU Physics simulation completed in 0.0558 seconds
+2024-11-27 13:22:42,628 - INFO - AI simulation completed in 0.5347 seconds
+2024-11-27 13:22:42,628 - INFO - Frame completed - Time: 0.7049s, FPS: 1.42
+2024-11-27 13:22:42,644 - INFO - GPU Frame rendered in 0.0146 seconds
+2024-11-27 13:22:42,802 - INFO - GPU Physics simulation completed in 0.0575 seconds
+2024-11-27 13:22:43,294 - INFO - AI simulation completed in 0.4898 seconds
+2024-11-27 13:22:43,294 - INFO - Frame completed - Time: 0.6651s, FPS: 1.50
+2024-11-27 13:22:43,309 - INFO - GPU Frame rendered in 0.0144 seconds
+2024-11-27 13:22:43,459 - INFO - GPU Physics simulation completed in 0.0609 seconds
+2024-11-27 13:22:43,962 - INFO - AI simulation completed in 0.5010 seconds
+2024-11-27 13:22:43,962 - INFO - Frame completed - Time: 0.6676s, FPS: 1.50
+2024-11-27 13:22:43,978 - INFO - GPU Frame rendered in 0.0146 seconds
+2024-11-27 13:22:44,138 - INFO - GPU Physics simulation completed in 0.0716 seconds
+2024-11-27 13:22:44,640 - INFO - AI simulation completed in 0.4997 seconds
+2024-11-27 13:22:44,640 - INFO - Frame completed - Time: 0.6773s, FPS: 1.48
+2024-11-27 13:22:44,656 - INFO - GPU Frame rendered in 0.0146 seconds
+2024-11-27 13:22:44,804 - INFO - GPU Physics simulation completed in 0.0582 seconds
+2024-11-27 13:22:45,325 - INFO - AI simulation completed in 0.5193 seconds
+2024-11-27 13:22:45,325 - INFO - Frame completed - Time: 0.6845s, FPS: 1.46
+2024-11-27 13:22:45,340 - INFO - GPU Frame rendered in 0.0138 seconds
+2024-11-27 13:22:45,494 - INFO - GPU Physics simulation completed in 0.0648 seconds
+2024-11-27 13:22:45,980 - INFO - AI simulation completed in 0.4843 seconds
+2024-11-27 13:22:45,981 - INFO - Frame completed - Time: 0.6549s, FPS: 1.53
+2024-11-27 13:22:45,998 - INFO - GPU Frame rendered in 0.0163 seconds
+2024-11-27 13:22:46,145 - INFO - GPU Physics simulation completed in 0.0565 seconds
+2024-11-27 13:22:46,654 - INFO - AI simulation completed in 0.5070 seconds
+2024-11-27 13:22:46,654 - INFO - Frame completed - Time: 0.6727s, FPS: 1.49
+2024-11-27 13:22:46,670 - INFO - GPU Frame rendered in 0.0152 seconds
+2024-11-27 13:22:46,818 - INFO - GPU Physics simulation completed in 0.0585 seconds
+2024-11-27 13:22:47,313 - INFO - AI simulation completed in 0.4937 seconds
+2024-11-27 13:22:47,314 - INFO - Frame completed - Time: 0.6590s, FPS: 1.52
+2024-11-27 13:22:47,328 - INFO - GPU Frame rendered in 0.0136 seconds
+2024-11-27 13:22:47,473 - INFO - GPU Physics simulation completed in 0.0566 seconds
+2024-11-27 13:22:47,970 - INFO - AI simulation completed in 0.4950 seconds
+2024-11-27 13:22:47,971 - INFO - Frame completed - Time: 0.6565s, FPS: 1.52
+2024-11-27 13:22:47,996 - INFO - GPU Frame rendered in 0.0149 seconds
+2024-11-27 13:22:48,153 - INFO - GPU Physics simulation completed in 0.0564 seconds
+2024-11-27 13:22:48,644 - INFO - AI simulation completed in 0.4892 seconds
+2024-11-27 13:22:48,644 - INFO - Frame completed - Time: 0.6638s, FPS: 1.51
+2024-11-27 13:22:48,660 - INFO - GPU Frame rendered in 0.0144 seconds
+2024-11-27 13:22:48,806 - INFO - GPU Physics simulation completed in 0.0571 seconds
+2024-11-27 13:22:49,319 - INFO - AI simulation completed in 0.5109 seconds
+2024-11-27 13:22:49,319 - INFO - Frame completed - Time: 0.6744s, FPS: 1.48
+2024-11-27 13:22:49,334 - INFO - GPU Frame rendered in 0.0137 seconds
+2024-11-27 13:22:49,480 - INFO - GPU Physics simulation completed in 0.0564 seconds
+2024-11-27 13:22:49,957 - INFO - AI simulation completed in 0.4755 seconds
+2024-11-27 13:22:49,957 - INFO - Frame completed - Time: 0.6375s, FPS: 1.57
+2024-11-27 13:22:49,973 - INFO - GPU Frame rendered in 0.0147 seconds
+2024-11-27 13:22:50,118 - INFO - GPU Physics simulation completed in 0.0569 seconds
+2024-11-27 13:22:50,600 - INFO - AI simulation completed in 0.4794 seconds
+2024-11-27 13:22:50,600 - INFO - Frame completed - Time: 0.6421s, FPS: 1.56
+2024-11-27 13:22:50,615 - INFO - GPU Frame rendered in 0.0146 seconds
+2024-11-27 13:22:50,769 - INFO - GPU Physics simulation completed in 0.0648 seconds
+2024-11-27 13:22:51,265 - INFO - AI simulation completed in 0.4936 seconds
+2024-11-27 13:22:51,265 - INFO - Frame completed - Time: 0.6644s, FPS: 1.51
+2024-11-27 13:22:51,280 - INFO - GPU Frame rendered in 0.0144 seconds
+2024-11-27 13:22:51,424 - INFO - GPU Physics simulation completed in 0.0556 seconds
+2024-11-27 13:22:51,899 - INFO - AI simulation completed in 0.4729 seconds
+2024-11-27 13:22:51,900 - INFO - Frame completed - Time: 0.6340s, FPS: 1.58
+2024-11-27 13:22:51,914 - INFO - GPU Frame rendered in 0.0138 seconds
+2024-11-27 13:22:52,062 - INFO - GPU Physics simulation completed in 0.0593 seconds
+2024-11-27 13:22:52,559 - INFO - AI simulation completed in 0.4956 seconds
+2024-11-27 13:22:52,560 - INFO - Frame completed - Time: 0.6597s, FPS: 1.52
+2024-11-27 13:22:52,575 - INFO - GPU Frame rendered in 0.0146 seconds
+2024-11-27 13:22:52,733 - INFO - GPU Physics simulation completed in 0.0566 seconds
+2024-11-27 13:22:53,254 - INFO - AI simulation completed in 0.5198 seconds
+2024-11-27 13:22:53,255 - INFO - Frame completed - Time: 0.6945s, FPS: 1.44
+2024-11-27 13:22:53,270 - INFO - GPU Frame rendered in 0.0146 seconds
+2024-11-27 13:22:53,421 - INFO - GPU Physics simulation completed in 0.0610 seconds
+2024-11-27 13:22:53,919 - INFO - AI simulation completed in 0.4964 seconds
+2024-11-27 13:22:53,920 - INFO - Frame completed - Time: 0.6643s, FPS: 1.51
+2024-11-27 13:22:53,935 - INFO - GPU Frame rendered in 0.0146 seconds
+2024-11-27 13:22:54,082 - INFO - GPU Physics simulation completed in 0.0584 seconds
+2024-11-27 13:22:54,569 - INFO - AI simulation completed in 0.4845 seconds
+2024-11-27 13:22:54,569 - INFO - Frame completed - Time: 0.6493s, FPS: 1.54
+2024-11-27 13:22:54,584 - INFO - GPU Frame rendered in 0.0136 seconds
+2024-11-27 13:22:54,730 - INFO - GPU Physics simulation completed in 0.0567 seconds
+2024-11-27 13:22:55,237 - INFO - AI simulation completed in 0.5050 seconds
+2024-11-27 13:22:55,237 - INFO - Frame completed - Time: 0.6674s, FPS: 1.50
+2024-11-27 13:22:55,254 - INFO - GPU Frame rendered in 0.0163 seconds
+2024-11-27 13:22:55,400 - INFO - GPU Physics simulation completed in 0.0572 seconds
+2024-11-27 13:22:55,905 - INFO - AI simulation completed in 0.5030 seconds
+2024-11-27 13:22:55,906 - INFO - Frame completed - Time: 0.6678s, FPS: 1.50
+2024-11-27 13:22:55,921 - INFO - GPU Frame rendered in 0.0146 seconds
+2024-11-27 13:22:56,070 - INFO - GPU Physics simulation completed in 0.0600 seconds
+2024-11-27 13:22:56,558 - INFO - AI simulation completed in 0.4857 seconds
+2024-11-27 13:22:56,558 - INFO - Frame completed - Time: 0.6519s, FPS: 1.53
+2024-11-27 13:22:56,573 - INFO - GPU Frame rendered in 0.0135 seconds
+2024-11-27 13:22:56,719 - INFO - GPU Physics simulation completed in 0.0575 seconds
+2024-11-27 13:22:57,212 - INFO - AI simulation completed in 0.4910 seconds
+2024-11-27 13:22:57,212 - INFO - Frame completed - Time: 0.6531s, FPS: 1.53
+2024-11-27 13:22:57,229 - INFO - GPU Frame rendered in 0.0165 seconds
+2024-11-27 13:22:57,379 - INFO - GPU Physics simulation completed in 0.0574 seconds
+2024-11-27 13:22:57,877 - INFO - AI simulation completed in 0.4956 seconds
+2024-11-27 13:22:57,877 - INFO - Frame completed - Time: 0.6650s, FPS: 1.50
+2024-11-27 13:39:56,609 - INFO - AI simulation completed in 0.0951 seconds
+2024-11-27 13:39:57,228 - INFO - GPU Physics simulation completed in 0.0267 seconds
+2024-11-27 13:39:57,313 - INFO - GPU Frame rendered in 0.0835 seconds
+2024-11-27 13:39:57,338 - INFO - GPU Frame rendered in 0.0025 seconds
+2024-11-27 13:39:57,385 - INFO - GPU Physics simulation completed in 0.0225 seconds
+2024-11-27 13:39:57,478 - INFO - AI simulation completed in 0.0927 seconds
+2024-11-27 13:39:57,478 - INFO - Frame completed - Time: 0.1426s, FPS: 7.01
+2024-11-27 13:39:57,481 - INFO - GPU Frame rendered in 0.0023 seconds
+2024-11-27 13:39:57,527 - INFO - GPU Physics simulation completed in 0.0231 seconds
+2024-11-27 13:39:57,616 - INFO - AI simulation completed in 0.0885 seconds
+2024-11-27 13:39:57,616 - INFO - Frame completed - Time: 0.1375s, FPS: 7.27
+2024-11-27 13:39:57,619 - INFO - GPU Frame rendered in 0.0022 seconds
+2024-11-27 13:39:57,664 - INFO - GPU Physics simulation completed in 0.0224 seconds
+2024-11-27 13:39:57,754 - INFO - AI simulation completed in 0.0892 seconds
+2024-11-27 13:39:57,754 - INFO - Frame completed - Time: 0.1370s, FPS: 7.30
+2024-11-27 13:39:57,847 - INFO - GPU Frame rendered in 0.0021 seconds
+2024-11-27 13:39:57,892 - INFO - GPU Physics simulation completed in 0.0224 seconds
+2024-11-27 13:39:58,004 - INFO - AI simulation completed in 0.1118 seconds
+2024-11-27 13:39:58,004 - INFO - Frame completed - Time: 0.1601s, FPS: 6.25
+2024-11-27 13:39:58,009 - INFO - GPU Frame rendered in 0.0021 seconds
+2024-11-27 13:39:58,054 - INFO - GPU Physics simulation completed in 0.0224 seconds
+2024-11-27 13:39:58,144 - INFO - AI simulation completed in 0.0895 seconds
+2024-11-27 13:39:58,144 - INFO - Frame completed - Time: 0.1375s, FPS: 7.27
+2024-11-27 13:39:58,147 - INFO - GPU Frame rendered in 0.0020 seconds
+2024-11-27 13:39:58,201 - INFO - GPU Physics simulation completed in 0.0274 seconds
+2024-11-27 13:39:58,296 - INFO - AI simulation completed in 0.0946 seconds
+2024-11-27 13:39:58,296 - INFO - Frame completed - Time: 0.1509s, FPS: 6.63
+2024-11-27 13:39:58,300 - INFO - GPU Frame rendered in 0.0020 seconds
+2024-11-27 13:39:58,345 - INFO - GPU Physics simulation completed in 0.0225 seconds
+2024-11-27 13:39:58,435 - INFO - AI simulation completed in 0.0891 seconds
+2024-11-27 13:39:58,435 - INFO - Frame completed - Time: 0.1372s, FPS: 7.29
+2024-11-27 13:39:58,446 - INFO - GPU Frame rendered in 0.0021 seconds
+2024-11-27 13:39:58,491 - INFO - GPU Physics simulation completed in 0.0229 seconds
+2024-11-27 13:39:58,579 - INFO - AI simulation completed in 0.0872 seconds
+2024-11-27 13:39:58,579 - INFO - Frame completed - Time: 0.1357s, FPS: 7.37
+2024-11-27 13:39:58,583 - INFO - GPU Frame rendered in 0.0020 seconds
+2024-11-27 13:39:58,631 - INFO - GPU Physics simulation completed in 0.0251 seconds
+2024-11-27 13:39:58,719 - INFO - AI simulation completed in 0.0876 seconds
+2024-11-27 13:39:58,720 - INFO - Frame completed - Time: 0.1383s, FPS: 7.23
+2024-11-27 13:39:58,724 - INFO - GPU Frame rendered in 0.0020 seconds
+2024-11-27 13:39:58,769 - INFO - GPU Physics simulation completed in 0.0228 seconds
+2024-11-27 13:39:58,858 - INFO - AI simulation completed in 0.0886 seconds
+2024-11-27 13:39:58,858 - INFO - Frame completed - Time: 0.1368s, FPS: 7.31
+2024-11-27 13:39:58,862 - INFO - GPU Frame rendered in 0.0020 seconds
+2024-11-27 13:39:58,907 - INFO - GPU Physics simulation completed in 0.0229 seconds
+2024-11-27 13:39:58,997 - INFO - AI simulation completed in 0.0890 seconds
+2024-11-27 13:39:58,997 - INFO - Frame completed - Time: 0.1373s, FPS: 7.28
+2024-11-27 13:39:59,006 - INFO - GPU Frame rendered in 0.0021 seconds
+2024-11-27 13:39:59,052 - INFO - GPU Physics simulation completed in 0.0235 seconds
+2024-11-27 13:39:59,140 - INFO - AI simulation completed in 0.0878 seconds
+2024-11-27 13:39:59,141 - INFO - Frame completed - Time: 0.1369s, FPS: 7.31
+2024-11-27 13:39:59,164 - INFO - GPU Frame rendered in 0.0204 seconds
+2024-11-27 13:39:59,311 - INFO - GPU Physics simulation completed in 0.0578 seconds
+2024-11-27 13:39:59,636 - INFO - AI simulation completed in 0.3238 seconds
+2024-11-27 13:39:59,637 - INFO - Frame completed - Time: 0.4944s, FPS: 2.02
+2024-11-27 13:39:59,651 - INFO - GPU Frame rendered in 0.0132 seconds
+2024-11-27 13:39:59,811 - INFO - GPU Physics simulation completed in 0.0587 seconds
+2024-11-27 13:40:00,113 - INFO - AI simulation completed in 0.3002 seconds
+2024-11-27 13:40:00,113 - INFO - Frame completed - Time: 0.4757s, FPS: 2.10
+2024-11-27 13:40:00,133 - INFO - GPU Frame rendered in 0.0132 seconds
+2024-11-27 13:40:00,298 - INFO - GPU Physics simulation completed in 0.0754 seconds
+2024-11-27 13:40:00,628 - INFO - AI simulation completed in 0.3282 seconds
+2024-11-27 13:40:00,628 - INFO - Frame completed - Time: 0.5082s, FPS: 1.97
+2024-11-27 13:40:00,649 - INFO - GPU Frame rendered in 0.0131 seconds
+2024-11-27 13:40:00,796 - INFO - GPU Physics simulation completed in 0.0585 seconds
+2024-11-27 13:40:01,100 - INFO - AI simulation completed in 0.3019 seconds
+2024-11-27 13:40:01,100 - INFO - Frame completed - Time: 0.4649s, FPS: 2.15
+2024-11-27 13:40:01,121 - INFO - GPU Frame rendered in 0.0131 seconds
+2024-11-27 13:40:01,267 - INFO - GPU Physics simulation completed in 0.0574 seconds
+2024-11-27 13:40:01,574 - INFO - AI simulation completed in 0.3055 seconds
+2024-11-27 13:40:01,575 - INFO - Frame completed - Time: 0.4672s, FPS: 2.14
+2024-11-27 13:40:01,596 - INFO - GPU Frame rendered in 0.0131 seconds
+2024-11-27 13:40:01,742 - INFO - GPU Physics simulation completed in 0.0573 seconds
+2024-11-27 13:40:02,046 - INFO - AI simulation completed in 0.3025 seconds
+2024-11-27 13:40:02,047 - INFO - Frame completed - Time: 0.4641s, FPS: 2.15
+2024-11-27 13:40:02,068 - INFO - GPU Frame rendered in 0.0131 seconds
+2024-11-27 13:40:02,214 - INFO - GPU Physics simulation completed in 0.0576 seconds
+2024-11-27 13:40:02,534 - INFO - AI simulation completed in 0.3186 seconds
+2024-11-27 13:40:02,535 - INFO - Frame completed - Time: 0.4807s, FPS: 2.08
+2024-11-27 13:40:02,556 - INFO - GPU Frame rendered in 0.0136 seconds
+2024-11-27 13:40:02,703 - INFO - GPU Physics simulation completed in 0.0577 seconds
+2024-11-27 13:40:03,008 - INFO - AI simulation completed in 0.3033 seconds
+2024-11-27 13:40:03,009 - INFO - Frame completed - Time: 0.4664s, FPS: 2.14
+2024-11-27 13:40:03,030 - INFO - GPU Frame rendered in 0.0134 seconds
+2024-11-27 13:40:03,176 - INFO - GPU Physics simulation completed in 0.0571 seconds
+2024-11-27 13:40:03,483 - INFO - AI simulation completed in 0.3050 seconds
+2024-11-27 13:40:03,484 - INFO - Frame completed - Time: 0.4674s, FPS: 2.14
+2024-11-27 13:40:03,509 - INFO - GPU Frame rendered in 0.0143 seconds
+2024-11-27 13:40:03,668 - INFO - GPU Physics simulation completed in 0.0583 seconds
+2024-11-27 13:40:03,972 - INFO - AI simulation completed in 0.3015 seconds
+2024-11-27 13:40:03,972 - INFO - Frame completed - Time: 0.4782s, FPS: 2.09
+2024-11-27 13:40:03,994 - INFO - GPU Frame rendered in 0.0131 seconds
+2024-11-27 13:40:04,142 - INFO - GPU Physics simulation completed in 0.0594 seconds
+2024-11-27 13:40:04,446 - INFO - AI simulation completed in 0.3018 seconds
+2024-11-27 13:40:04,446 - INFO - Frame completed - Time: 0.4655s, FPS: 2.15
+2024-11-27 13:40:04,562 - INFO - GPU Frame rendered in 0.1020 seconds
+2024-11-27 13:40:05,035 - INFO - GPU Physics simulation completed in 0.1176 seconds
+2024-11-27 13:40:06,209 - INFO - AI simulation completed in 1.1698 seconds
+2024-11-27 13:40:06,210 - INFO - Frame completed - Time: 1.7530s, FPS: 0.57
+2024-11-27 13:40:06,289 - INFO - GPU Frame rendered in 0.0781 seconds
+2024-11-27 13:40:06,780 - INFO - GPU Physics simulation completed in 0.1253 seconds
+2024-11-27 13:40:07,920 - INFO - AI simulation completed in 1.1363 seconds
+2024-11-27 13:40:07,921 - INFO - Frame completed - Time: 1.7101s, FPS: 0.58
+2024-11-27 13:40:08,008 - INFO - GPU Frame rendered in 0.0787 seconds
+2024-11-27 13:40:08,496 - INFO - GPU Physics simulation completed in 0.1182 seconds
+2024-11-27 13:40:09,631 - INFO - AI simulation completed in 1.1316 seconds
+2024-11-27 13:40:09,632 - INFO - Frame completed - Time: 1.7033s, FPS: 0.59
+2024-11-27 13:40:09,737 - INFO - GPU Frame rendered in 0.0974 seconds
+2024-11-27 13:40:10,215 - INFO - GPU Physics simulation completed in 0.1186 seconds
+2024-11-27 13:40:11,341 - INFO - AI simulation completed in 1.1229 seconds
+2024-11-27 13:40:11,342 - INFO - Frame completed - Time: 1.7028s, FPS: 0.59
+2024-11-27 13:40:11,440 - INFO - GPU Frame rendered in 0.0813 seconds
+2024-11-27 13:40:11,915 - INFO - GPU Physics simulation completed in 0.1170 seconds
+2024-11-27 13:40:13,045 - INFO - AI simulation completed in 1.1272 seconds
+2024-11-27 13:40:13,046 - INFO - Frame completed - Time: 1.6877s, FPS: 0.59
+2024-11-27 13:40:13,135 - INFO - GPU Frame rendered in 0.0812 seconds
+2024-11-27 13:40:13,615 - INFO - GPU Physics simulation completed in 0.1181 seconds
+2024-11-27 13:40:14,764 - INFO - AI simulation completed in 1.1452 seconds
+2024-11-27 13:40:14,765 - INFO - Frame completed - Time: 1.7111s, FPS: 0.58
+2024-11-27 13:40:14,857 - INFO - GPU Frame rendered in 0.0797 seconds
+2024-11-27 13:40:15,356 - INFO - GPU Physics simulation completed in 0.1331 seconds
+2024-11-27 13:40:16,537 - INFO - AI simulation completed in 1.1781 seconds
+2024-11-27 13:40:16,538 - INFO - Frame completed - Time: 1.7617s, FPS: 0.57
+2024-11-27 13:40:16,625 - INFO - GPU Frame rendered in 0.0795 seconds
+2024-11-27 13:40:17,109 - INFO - GPU Physics simulation completed in 0.1177 seconds
+2024-11-27 13:40:18,205 - INFO - AI simulation completed in 1.0936 seconds
+2024-11-27 13:40:18,207 - INFO - Frame completed - Time: 1.6610s, FPS: 0.60
+2024-11-27 13:40:18,295 - INFO - GPU Frame rendered in 0.0802 seconds
+2024-11-27 13:40:18,763 - INFO - GPU Physics simulation completed in 0.1150 seconds
+2024-11-27 13:40:19,855 - INFO - AI simulation completed in 1.0890 seconds
+2024-11-27 13:40:19,856 - INFO - Frame completed - Time: 1.6420s, FPS: 0.61
+2024-11-27 13:40:19,945 - INFO - GPU Frame rendered in 0.0799 seconds
+2024-11-27 13:40:20,416 - INFO - GPU Physics simulation completed in 0.1178 seconds
+2024-11-27 13:40:21,494 - INFO - AI simulation completed in 1.0747 seconds
+2024-11-27 13:40:21,496 - INFO - Frame completed - Time: 1.6302s, FPS: 0.61
+2024-11-27 13:40:21,589 - INFO - GPU Frame rendered in 0.0778 seconds
+2024-11-27 13:40:21,446 - INFO - GPU Physics simulation completed in 0.1217 seconds
+2024-11-27 13:40:22,577 - INFO - AI simulation completed in 1.1278 seconds
+2024-11-27 13:40:22,578 - INFO - Frame completed - Time: 1.0669s, FPS: 0.94

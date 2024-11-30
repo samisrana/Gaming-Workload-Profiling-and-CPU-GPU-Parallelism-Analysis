@@ -1,0 +1,5 @@
+timestamp,game_running,frame_time_ms,fps,gpu_utilization,gpu_memory_used,gpu_memory_total,gpu_temperature,gpu_power_draw,fan_speed,total_cpu_usage,total_memory_usage
+2024-11-28T12:56:26.105302,True,16.67,60.0,23.0,1949.0,8188.0,37.0,15.41,50.0,4.4,7.0
+2024-11-28T12:56:27.208058,True,16.67,60.0,18.0,1949.0,8188.0,37.0,21.0,50.0,0.2,7.0
+2024-11-28T12:56:28.317790,True,16.67,60.0,38.0,1949.0,8188.0,37.0,16.84,50.0,0.2,7.0
+2024-11-28T12:56:29.480192,True,16.67,60.0,20.0,1949.0,8188.0,37.0,16.37,50.0,0.2,7.0

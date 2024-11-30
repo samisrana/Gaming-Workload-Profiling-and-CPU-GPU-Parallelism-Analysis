@@ -1,0 +1,8 @@
+Performance Report for terraria
+==================================================
+
+Average FPS: 0.00
+Average GPU Utilization: 18.40%
+Average CPU Usage: 0.44%
+Maximum GPU Temperature: 41.00°C
+Maximum GPU Memory Used: 1949.00MB

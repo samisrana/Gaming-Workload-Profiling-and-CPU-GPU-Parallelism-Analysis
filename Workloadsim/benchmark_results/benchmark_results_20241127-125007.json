@@ -1,0 +1,53 @@
+[
+  {
+    "configuration": {
+      "resolution": [
+        1280,
+        720
+      ],
+      "threads": 2,
+      "intensity": "light"
+    },
+    "metrics": {
+      "avg_frame_time": 0.05122356414794922,
+      "avg_fps": 19.52226512609892,
+      "frame_time_std": 0.0005216041422741925,
+      "avg_cpu_usage": 6.380000000000001,
+      "avg_memory_usage": 5.9
+    }
+  },
+  {
+    "configuration": {
+      "resolution": [
+        1920,
+        1080
+      ],
+      "threads": 4,
+      "intensity": "medium"
+    },
+    "metrics": {
+      "avg_frame_time": 0.3529797077178955,
+      "avg_fps": 2.8330240468078376,
+      "frame_time_std": 0.004641743447836676,
+      "avg_cpu_usage": 6.56,
+      "avg_memory_usage": 5.9
+    }
+  },
+  {
+    "configuration": {
+      "resolution": [
+        2560,
+        1440
+      ],
+      "threads": 8,
+      "intensity": "heavy"
+    },
+    "metrics": {
+      "avg_frame_time": 2.87844033241272,
+      "avg_fps": 0.34741036273689097,
+      "frame_time_std": 0.11858269018776935,
+      "avg_cpu_usage": 6.4,
+      "avg_memory_usage": 5.9
+    }
+  }
+]

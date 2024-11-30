@@ -1,0 +1,2 @@
+timestamp,game_running,frame_time_ms,fps,fps_1_low,fps_min,fps_max,gpu_utilization,gpu_memory_used,gpu_memory_total,gpu_temperature,gpu_power_draw,fan_speed,total_cpu_usage,total_memory_usage
+2024-11-29T17:36:03.222172,True,0.563,59.817,42.836,42.836,111.021,41.0,3537.0,8188.0,36.0,7.43,0.0,1.0,8.1

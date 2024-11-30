@@ -1,0 +1,36 @@
+Performance Report for rocket
+==================================================
+
+Game Active Time: 100.0% of session
+
+Performance Metrics (During Gameplay):
+- Average FPS: 22.5
+- Average Frame Time: 44.96ms
+- 1% Low FPS: 19.8
+- 0.1% Low FPS: 19.8
+
+Session Duration: 0:01:22
+
+GPU Performance:
+- Average Utilization: 37.4%
+- Peak Utilization: 50.0%
+- Average Memory Used: 3171MB
+- Peak Memory Used: 3206MB
+- Maximum Temperature: 48.0°C
+- Average Power Draw: 44.1W
+
+System Performance:
+- Average CPU Usage: 0.8%
+- Peak CPU Usage: 2.7%
+- Average Memory Usage: 8.0%
+
+Comparison with Phase 1 Simulation:
+Simulation Results:
+- CPU Version:
+  * Light workload: ~12 FPS
+  * CPU usage: 10-14%
+- GPU Version:
+  * Light workload: ~7 FPS
+  * CPU usage: ~6%
+  * GPU utilization: 20% → 8.5% → 1.5%
+  * GPU memory scaling: 1900MB → 3200MB

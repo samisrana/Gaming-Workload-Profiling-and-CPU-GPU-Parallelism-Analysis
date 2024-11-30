@@ -1,0 +1,36 @@
+Performance Report for terraria
+==================================================
+
+Game Active Time: 100.0% of session
+
+Performance Metrics (During Gameplay):
+- Average FPS: 60.0
+- Average Frame Time: 16.67ms
+- 1% Low FPS: 60.0
+- 0.1% Low FPS: 60.0
+
+Session Duration: 0:00:02
+
+GPU Performance:
+- Average Utilization: 32.0%
+- Peak Utilization: 47.0%
+- Average Memory Used: 1948MB
+- Peak Memory Used: 1948MB
+- Maximum Temperature: 37.0°C
+- Average Power Draw: 15.8W
+
+System Performance:
+- Average CPU Usage: 2.1%
+- Peak CPU Usage: 4.1%
+- Average Memory Usage: 7.0%
+
+Comparison with Phase 1 Simulation:
+Simulation Results:
+- CPU Version:
+  * Light workload: ~12 FPS
+  * CPU usage: 10-14%
+- GPU Version:
+  * Light workload: ~7 FPS
+  * CPU usage: ~6%
+  * GPU utilization: 20% → 8.5% → 1.5%
+  * GPU memory scaling: 1900MB → 3200MB

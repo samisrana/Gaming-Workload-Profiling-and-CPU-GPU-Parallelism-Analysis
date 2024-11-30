@@ -1,0 +1,28 @@
+Performance Report for rocket league
+==================================================
+
+Session Duration: 0:00:56
+
+GPU Performance:
+- Average Utilization: 26.3%
+- Peak Utilization: 74.0%
+- Average Memory Used: 3694MB
+- Peak Memory Used: 3815MB
+- Maximum Temperature: 39.0°C
+- Average Power Draw: 16.1W
+
+System Performance:
+- Average CPU Usage: 0.3%
+- Peak CPU Usage: 0.6%
+- Average Memory Usage: 8.1%
+
+Comparison with Phase 1 Simulation:
+Simulation Results:
+- CPU Version:
+  * Light workload: ~12 FPS
+  * CPU usage: 10-14%
+- GPU Version:
+  * Light workload: ~7 FPS
+  * CPU usage: ~6%
+  * GPU utilization: 20% → 8.5% → 1.5%
+  * GPU memory scaling: 1900MB → 3200MB

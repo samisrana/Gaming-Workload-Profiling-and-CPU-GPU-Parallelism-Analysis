@@ -1,0 +1,22 @@
+Performance Analysis Report for terraria
+==================================================
+
+Hardware Environment:
+
+Gaming Sessions:
+
+Session 1:
+- Start: 2024-11-27T14:44:15.838863
+- End: 2024-11-27T14:44:45.873445
+
+Performance Metrics (during gameplay):
+GPU:
+- Average Utilization: 19.6%
+- Peak Utilization: 45.0%
+- Average Memory Used: 1828MB
+- Peak Memory Used: 1848MB
+- Average Temperature: 36.7°C
+
+CPU:
+- Average Usage: 11.8%
+- Peak Usage: 17.6%

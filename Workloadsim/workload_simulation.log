@@ -1,0 +1,574 @@
+2024-11-27 12:51:16,219 - INFO - AI simulation completed in 0.0101 seconds
+2024-11-27 12:51:16,221 - INFO - Physics simulation completed in 0.0017 seconds
+2024-11-27 12:51:16,265 - INFO - Frame rendered in 0.0412 seconds
+2024-11-27 12:51:16,307 - INFO - Frame rendered in 0.0389 seconds
+2024-11-27 12:51:16,310 - INFO - Physics simulation completed in 0.0019 seconds
+2024-11-27 12:51:16,316 - INFO - AI simulation completed in 0.0079 seconds
+2024-11-27 12:51:16,317 - INFO - Frame completed - Time: 0.0510s, FPS: 19.62
+2024-11-27 12:51:16,361 - INFO - Frame rendered in 0.0406 seconds
+2024-11-27 12:51:16,364 - INFO - Physics simulation completed in 0.0018 seconds
+2024-11-27 12:51:16,369 - INFO - AI simulation completed in 0.0076 seconds
+2024-11-27 12:51:16,370 - INFO - Frame completed - Time: 0.0524s, FPS: 19.08
+2024-11-27 12:51:16,412 - INFO - Frame rendered in 0.0387 seconds
+2024-11-27 12:51:16,414 - INFO - Physics simulation completed in 0.0018 seconds
+2024-11-27 12:51:16,420 - INFO - AI simulation completed in 0.0077 seconds
+2024-11-27 12:51:16,420 - INFO - Frame completed - Time: 0.0506s, FPS: 19.77
+2024-11-27 12:51:16,463 - INFO - Frame rendered in 0.0395 seconds
+2024-11-27 12:51:16,466 - INFO - Physics simulation completed in 0.0018 seconds
+2024-11-27 12:51:16,472 - INFO - AI simulation completed in 0.0077 seconds
+2024-11-27 12:51:16,472 - INFO - Frame completed - Time: 0.0513s, FPS: 19.50
+2024-11-27 12:51:16,515 - INFO - Frame rendered in 0.0387 seconds
+2024-11-27 12:51:16,517 - INFO - Physics simulation completed in 0.0020 seconds
+2024-11-27 12:51:16,522 - INFO - AI simulation completed in 0.0075 seconds
+2024-11-27 12:51:16,523 - INFO - Frame completed - Time: 0.0504s, FPS: 19.83
+2024-11-27 12:51:16,565 - INFO - Frame rendered in 0.0389 seconds
+2024-11-27 12:51:16,568 - INFO - Physics simulation completed in 0.0020 seconds
+2024-11-27 12:51:16,574 - INFO - AI simulation completed in 0.0085 seconds
+2024-11-27 12:51:16,575 - INFO - Frame completed - Time: 0.0514s, FPS: 19.44
+2024-11-27 12:51:16,618 - INFO - Frame rendered in 0.0394 seconds
+2024-11-27 12:51:16,620 - INFO - Physics simulation completed in 0.0019 seconds
+2024-11-27 12:51:16,626 - INFO - AI simulation completed in 0.0074 seconds
+2024-11-27 12:51:16,626 - INFO - Frame completed - Time: 0.0509s, FPS: 19.66
+2024-11-27 12:51:16,669 - INFO - Frame rendered in 0.0396 seconds
+2024-11-27 12:51:16,672 - INFO - Physics simulation completed in 0.0018 seconds
+2024-11-27 12:51:16,677 - INFO - AI simulation completed in 0.0077 seconds
+2024-11-27 12:51:16,678 - INFO - Frame completed - Time: 0.0515s, FPS: 19.42
+2024-11-27 12:51:16,722 - INFO - Frame rendered in 0.0395 seconds
+2024-11-27 12:51:16,724 - INFO - Physics simulation completed in 0.0020 seconds
+2024-11-27 12:51:16,729 - INFO - AI simulation completed in 0.0074 seconds
+2024-11-27 12:51:16,730 - INFO - Frame completed - Time: 0.0514s, FPS: 19.47
+2024-11-27 12:51:16,772 - INFO - Frame rendered in 0.0389 seconds
+2024-11-27 12:51:16,775 - INFO - Physics simulation completed in 0.0019 seconds
+2024-11-27 12:51:16,781 - INFO - AI simulation completed in 0.0076 seconds
+2024-11-27 12:51:16,781 - INFO - Frame completed - Time: 0.0506s, FPS: 19.75
+2024-11-27 12:51:16,825 - INFO - Frame rendered in 0.0400 seconds
+2024-11-27 12:51:16,827 - INFO - Physics simulation completed in 0.0018 seconds
+2024-11-27 12:51:16,833 - INFO - AI simulation completed in 0.0075 seconds
+2024-11-27 12:51:16,833 - INFO - Frame completed - Time: 0.0517s, FPS: 19.36
+2024-11-27 12:51:16,876 - INFO - Frame rendered in 0.0393 seconds
+2024-11-27 12:51:16,879 - INFO - Physics simulation completed in 0.0019 seconds
+2024-11-27 12:51:16,884 - INFO - AI simulation completed in 0.0072 seconds
+2024-11-27 12:51:16,884 - INFO - Frame completed - Time: 0.0506s, FPS: 19.77
+2024-11-27 12:51:16,788 - INFO - Frame rendered in -0.1104 seconds
+2024-11-27 12:51:16,811 - INFO - AI simulation completed in 0.0223 seconds
+2024-11-27 12:51:16,824 - INFO - Physics simulation completed in 0.0349 seconds
+2024-11-27 12:51:16,824 - INFO - Frame completed - Time: -0.0609s, FPS: 0.00
+2024-11-27 12:51:17,143 - INFO - Frame rendered in 0.3070 seconds
+2024-11-27 12:51:17,166 - INFO - AI simulation completed in 0.0219 seconds
+2024-11-27 12:51:17,179 - INFO - Physics simulation completed in 0.0346 seconds
+2024-11-27 12:51:17,179 - INFO - Frame completed - Time: 0.3545s, FPS: 2.82
+2024-11-27 12:51:17,494 - INFO - Frame rendered in 0.3033 seconds
+2024-11-27 12:51:17,517 - INFO - AI simulation completed in 0.0224 seconds
+2024-11-27 12:51:17,530 - INFO - Physics simulation completed in 0.0342 seconds
+2024-11-27 12:51:17,530 - INFO - Frame completed - Time: 0.3505s, FPS: 2.85
+2024-11-27 12:51:17,846 - INFO - Frame rendered in 0.3036 seconds
+2024-11-27 12:51:17,868 - INFO - AI simulation completed in 0.0216 seconds
+2024-11-27 12:51:17,881 - INFO - Physics simulation completed in 0.0339 seconds
+2024-11-27 12:51:17,881 - INFO - Frame completed - Time: 0.3508s, FPS: 2.85
+2024-11-27 12:51:18,195 - INFO - Frame rendered in 0.3030 seconds
+2024-11-27 12:51:18,218 - INFO - AI simulation completed in 0.0218 seconds
+2024-11-27 12:51:18,231 - INFO - Physics simulation completed in 0.0340 seconds
+2024-11-27 12:51:18,231 - INFO - Frame completed - Time: 0.3496s, FPS: 2.86
+2024-11-27 12:51:18,547 - INFO - Frame rendered in 0.3048 seconds
+2024-11-27 12:51:18,570 - INFO - AI simulation completed in 0.0217 seconds
+2024-11-27 12:51:18,583 - INFO - Physics simulation completed in 0.0345 seconds
+2024-11-27 12:51:18,583 - INFO - Frame completed - Time: 0.3521s, FPS: 2.84
+2024-11-27 12:51:18,897 - INFO - Frame rendered in 0.3024 seconds
+2024-11-27 12:51:18,920 - INFO - AI simulation completed in 0.0212 seconds
+2024-11-27 12:51:18,933 - INFO - Physics simulation completed in 0.0342 seconds
+2024-11-27 12:51:18,933 - INFO - Frame completed - Time: 0.3498s, FPS: 2.86
+2024-11-27 12:51:19,248 - INFO - Frame rendered in 0.3037 seconds
+2024-11-27 12:51:19,271 - INFO - AI simulation completed in 0.0220 seconds
+2024-11-27 12:51:19,285 - INFO - Physics simulation completed in 0.0354 seconds
+2024-11-27 12:51:19,285 - INFO - Frame completed - Time: 0.3518s, FPS: 2.84
+2024-11-27 12:51:19,602 - INFO - Frame rendered in 0.3047 seconds
+2024-11-27 12:51:19,624 - INFO - AI simulation completed in 0.0216 seconds
+2024-11-27 12:51:19,637 - INFO - Physics simulation completed in 0.0339 seconds
+2024-11-27 12:51:19,637 - INFO - Frame completed - Time: 0.3517s, FPS: 2.84
+2024-11-27 12:51:19,952 - INFO - Frame rendered in 0.3033 seconds
+2024-11-27 12:51:19,974 - INFO - AI simulation completed in 0.0211 seconds
+2024-11-27 12:51:19,987 - INFO - Physics simulation completed in 0.0337 seconds
+2024-11-27 12:51:19,987 - INFO - Frame completed - Time: 0.3496s, FPS: 2.86
+2024-11-27 12:51:20,306 - INFO - Frame rendered in 0.3071 seconds
+2024-11-27 12:51:20,328 - INFO - AI simulation completed in 0.0216 seconds
+2024-11-27 12:51:20,341 - INFO - Physics simulation completed in 0.0337 seconds
+2024-11-27 12:51:20,341 - INFO - Frame completed - Time: 0.3536s, FPS: 2.83
+2024-11-27 12:51:22,928 - INFO - Frame rendered in 2.5374 seconds
+2024-11-27 12:51:23,002 - INFO - AI simulation completed in 0.0731 seconds
+2024-11-27 12:51:23,061 - INFO - Physics simulation completed in 0.1127 seconds
+2024-11-27 12:51:23,062 - INFO - Frame completed - Time: 2.7204s, FPS: 0.37
+2024-11-27 12:51:25,782 - INFO - Frame rendered in 2.6745 seconds
+2024-11-27 12:51:25,858 - INFO - AI simulation completed in 0.0755 seconds
+2024-11-27 12:51:25,897 - INFO - Physics simulation completed in 0.1136 seconds
+2024-11-27 12:51:25,897 - INFO - Frame completed - Time: 2.8355s, FPS: 0.35
+2024-11-27 12:51:28,626 - INFO - Frame rendered in 2.6807 seconds
+2024-11-27 12:51:28,703 - INFO - AI simulation completed in 0.0762 seconds
+2024-11-27 12:51:28,740 - INFO - Physics simulation completed in 0.1124 seconds
+2024-11-27 12:51:28,740 - INFO - Frame completed - Time: 2.8419s, FPS: 0.35
+2024-11-27 12:51:31,454 - INFO - Frame rendered in 2.6680 seconds
+2024-11-27 12:51:31,531 - INFO - AI simulation completed in 0.0763 seconds
+2024-11-27 12:51:31,569 - INFO - Physics simulation completed in 0.1142 seconds
+2024-11-27 12:51:31,570 - INFO - Frame completed - Time: 2.8288s, FPS: 0.35
+2024-11-27 12:51:34,337 - INFO - Frame rendered in 2.7188 seconds
+2024-11-27 12:51:34,414 - INFO - AI simulation completed in 0.0771 seconds
+2024-11-27 12:51:34,452 - INFO - Physics simulation completed in 0.1147 seconds
+2024-11-27 12:51:34,452 - INFO - Frame completed - Time: 2.8817s, FPS: 0.35
+2024-11-27 12:51:37,189 - INFO - Frame rendered in 2.6878 seconds
+2024-11-27 12:51:37,265 - INFO - AI simulation completed in 0.0749 seconds
+2024-11-27 12:51:37,325 - INFO - Physics simulation completed in 0.1133 seconds
+2024-11-27 12:51:37,326 - INFO - Frame completed - Time: 2.8722s, FPS: 0.35
+2024-11-27 12:51:40,081 - INFO - Frame rendered in 2.7075 seconds
+2024-11-27 12:51:40,166 - INFO - AI simulation completed in 0.0849 seconds
+2024-11-27 12:51:40,204 - INFO - Physics simulation completed in 0.1224 seconds
+2024-11-27 12:51:40,204 - INFO - Frame completed - Time: 2.8777s, FPS: 0.35
+2024-11-27 12:51:42,941 - INFO - Frame rendered in 2.6903 seconds
+2024-11-27 12:51:43,018 - INFO - AI simulation completed in 0.0763 seconds
+2024-11-27 12:51:43,078 - INFO - Physics simulation completed in 0.1137 seconds
+2024-11-27 12:51:43,078 - INFO - Frame completed - Time: 2.8733s, FPS: 0.35
+2024-11-27 12:51:45,831 - INFO - Frame rendered in 2.7038 seconds
+2024-11-27 12:51:45,909 - INFO - AI simulation completed in 0.0779 seconds
+2024-11-27 12:51:45,945 - INFO - Physics simulation completed in 0.1136 seconds
+2024-11-27 12:51:45,945 - INFO - Frame completed - Time: 2.8662s, FPS: 0.35
+2024-11-27 12:51:48,674 - INFO - Frame rendered in 2.6810 seconds
+2024-11-27 12:51:48,750 - INFO - AI simulation completed in 0.0759 seconds
+2024-11-27 12:51:48,789 - INFO - Physics simulation completed in 0.1139 seconds
+2024-11-27 12:51:48,789 - INFO - Frame completed - Time: 2.8424s, FPS: 0.35
+2024-11-27 12:51:51,107 - INFO - Frame rendered in 2.2717 seconds
+2024-11-27 12:51:51,183 - INFO - AI simulation completed in 0.0751 seconds
+2024-11-27 12:51:51,221 - INFO - Physics simulation completed in 0.1130 seconds
+2024-11-27 12:51:51,221 - INFO - Frame completed - Time: 2.4317s, FPS: 0.41
+2024-11-27 13:04:37,058 - INFO - Physics simulation completed in 0.0449 seconds
+2024-11-27 13:04:37,108 - INFO - Frame rendered in 0.0496 seconds
+2024-11-27 13:04:37,145 - INFO - Physics simulation completed in 0.0359 seconds
+2024-11-27 13:04:37,159 - INFO - Frame rendered in 0.0506 seconds
+2024-11-27 13:04:37,209 - INFO - Physics simulation completed in 0.0477 seconds
+2024-11-27 13:04:37,219 - INFO - Frame rendered in 0.0583 seconds
+2024-11-27 13:05:18,099 - INFO - Physics simulation completed in 0.0307 seconds
+2024-11-27 13:05:18,148 - INFO - Frame rendered in 0.0488 seconds
+2024-11-27 13:05:18,176 - INFO - Physics simulation completed in 0.0257 seconds
+2024-11-27 13:05:18,198 - INFO - Frame rendered in 0.0493 seconds
+2024-11-27 13:05:18,246 - INFO - Physics simulation completed in 0.0454 seconds
+2024-11-27 13:05:18,251 - INFO - Frame rendered in 0.0505 seconds
+2024-11-27 13:06:46,656 - INFO - AI simulation completed in 0.0339 seconds
+2024-11-27 13:06:46,705 - INFO - Physics simulation completed in 0.0480 seconds
+2024-11-27 13:06:46,753 - INFO - Frame rendered in 0.0482 seconds
+2024-11-27 13:06:46,778 - INFO - Physics simulation completed in 0.0240 seconds
+2024-11-27 13:06:46,812 - INFO - Frame rendered in 0.0583 seconds
+2024-11-27 13:06:46,812 - INFO - AI simulation completed in 0.0337 seconds
+2024-11-27 13:06:46,813 - INFO - Frame completed - Time: 0.0594s, FPS: 16.83
+2024-11-27 13:06:46,859 - INFO - Physics simulation completed in 0.0452 seconds
+2024-11-27 13:06:46,875 - INFO - Frame rendered in 0.0612 seconds
+2024-11-27 13:06:46,894 - INFO - AI simulation completed in 0.0341 seconds
+2024-11-27 13:06:46,894 - INFO - Frame completed - Time: 0.0811s, FPS: 12.34
+2024-11-27 13:06:46,942 - INFO - Physics simulation completed in 0.0465 seconds
+2024-11-27 13:06:46,946 - INFO - Frame rendered in 0.0511 seconds
+2024-11-27 13:06:46,976 - INFO - AI simulation completed in 0.0342 seconds
+2024-11-27 13:06:46,977 - INFO - Frame completed - Time: 0.0823s, FPS: 12.15
+2024-11-27 13:06:47,017 - INFO - Physics simulation completed in 0.0382 seconds
+2024-11-27 13:06:47,040 - INFO - Frame rendered in 0.0622 seconds
+2024-11-27 13:06:47,050 - INFO - AI simulation completed in 0.0336 seconds
+2024-11-27 13:06:47,051 - INFO - Frame completed - Time: 0.0735s, FPS: 13.61
+2024-11-27 13:06:47,104 - INFO - Physics simulation completed in 0.0520 seconds
+2024-11-27 13:06:47,106 - INFO - Frame rendered in 0.0543 seconds
+2024-11-27 13:06:47,137 - INFO - AI simulation completed in 0.0322 seconds
+2024-11-27 13:06:47,137 - INFO - Frame completed - Time: 0.0857s, FPS: 11.66
+2024-11-27 13:06:47,183 - INFO - Physics simulation completed in 0.0446 seconds
+2024-11-27 13:06:47,202 - INFO - Frame rendered in 0.0642 seconds
+2024-11-27 13:06:47,217 - INFO - AI simulation completed in 0.0341 seconds
+2024-11-27 13:06:47,218 - INFO - Frame completed - Time: 0.0801s, FPS: 12.48
+2024-11-27 13:06:47,269 - INFO - Frame rendered in 0.0508 seconds
+2024-11-27 13:06:47,273 - INFO - Physics simulation completed in 0.0534 seconds
+2024-11-27 13:06:47,303 - INFO - AI simulation completed in 0.0339 seconds
+2024-11-27 13:06:47,304 - INFO - Frame completed - Time: 0.0859s, FPS: 11.64
+2024-11-27 13:06:47,354 - INFO - Frame rendered in 0.0495 seconds
+2024-11-27 13:06:47,358 - INFO - Physics simulation completed in 0.0518 seconds
+2024-11-27 13:06:47,389 - INFO - AI simulation completed in 0.0342 seconds
+2024-11-27 13:06:47,389 - INFO - Frame completed - Time: 0.0847s, FPS: 11.81
+2024-11-27 13:06:47,434 - INFO - Physics simulation completed in 0.0438 seconds
+2024-11-27 13:06:47,450 - INFO - Frame rendered in 0.0602 seconds
+2024-11-27 13:06:47,467 - INFO - AI simulation completed in 0.0330 seconds
+2024-11-27 13:06:47,468 - INFO - Frame completed - Time: 0.0783s, FPS: 12.77
+2024-11-27 13:06:47,520 - INFO - Frame rendered in 0.0510 seconds
+2024-11-27 13:06:47,522 - INFO - Physics simulation completed in 0.0531 seconds
+2024-11-27 13:06:47,554 - INFO - AI simulation completed in 0.0338 seconds
+2024-11-27 13:06:47,554 - INFO - Frame completed - Time: 0.0858s, FPS: 11.65
+2024-11-27 13:06:47,606 - INFO - Frame rendered in 0.0509 seconds
+2024-11-27 13:06:47,608 - INFO - Physics simulation completed in 0.0525 seconds
+2024-11-27 13:06:47,639 - INFO - AI simulation completed in 0.0332 seconds
+2024-11-27 13:06:47,640 - INFO - Frame completed - Time: 0.0854s, FPS: 11.71
+2024-11-27 13:06:47,691 - INFO - Frame rendered in 0.0507 seconds
+2024-11-27 13:06:47,693 - INFO - Physics simulation completed in 0.0520 seconds
+2024-11-27 13:06:47,744 - INFO - AI simulation completed in 0.0529 seconds
+2024-11-27 13:06:47,745 - INFO - Frame completed - Time: 0.1045s, FPS: 9.57
+2024-11-27 13:06:47,836 - INFO - AI simulation completed in 0.0901 seconds
+2024-11-27 13:06:48,141 - INFO - Frame rendered in 0.3949 seconds
+2024-11-27 13:06:48,719 - INFO - Physics simulation completed in 0.9723 seconds
+2024-11-27 13:06:48,719 - INFO - Frame completed - Time: 0.9738s, FPS: 1.03
+2024-11-27 13:06:48,805 - INFO - AI simulation completed in 0.0848 seconds
+2024-11-27 13:06:49,125 - INFO - Frame rendered in 0.4047 seconds
+2024-11-27 13:06:49,707 - INFO - Physics simulation completed in 0.9865 seconds
+2024-11-27 13:06:49,707 - INFO - Frame completed - Time: 0.9878s, FPS: 1.01
+2024-11-27 13:06:49,792 - INFO - AI simulation completed in 0.0838 seconds
+2024-11-27 13:06:50,097 - INFO - Frame rendered in 0.3893 seconds
+2024-11-27 13:06:50,691 - INFO - Physics simulation completed in 0.9822 seconds
+2024-11-27 13:06:50,691 - INFO - Frame completed - Time: 0.9835s, FPS: 1.02
+2024-11-27 13:06:50,769 - INFO - AI simulation completed in 0.0767 seconds
+2024-11-27 13:06:51,084 - INFO - Frame rendered in 0.3918 seconds
+2024-11-27 13:06:51,653 - INFO - Physics simulation completed in 0.9567 seconds
+2024-11-27 13:06:51,654 - INFO - Frame completed - Time: 0.9619s, FPS: 1.04
+2024-11-27 13:06:51,736 - INFO - AI simulation completed in 0.0814 seconds
+2024-11-27 13:06:52,059 - INFO - Frame rendered in 0.4051 seconds
+2024-11-27 13:06:52,637 - INFO - Physics simulation completed in 0.9818 seconds
+2024-11-27 13:06:52,637 - INFO - Frame completed - Time: 0.9833s, FPS: 1.02
+2024-11-27 13:06:52,723 - INFO - AI simulation completed in 0.0842 seconds
+2024-11-27 13:06:53,042 - INFO - Frame rendered in 0.4039 seconds
+2024-11-27 13:06:53,620 - INFO - Physics simulation completed in 0.9813 seconds
+2024-11-27 13:06:53,621 - INFO - Frame completed - Time: 0.9828s, FPS: 1.02
+2024-11-27 13:06:53,702 - INFO - AI simulation completed in 0.0804 seconds
+2024-11-27 13:06:54,012 - INFO - Frame rendered in 0.3906 seconds
+2024-11-27 13:06:54,609 - INFO - Physics simulation completed in 0.9868 seconds
+2024-11-27 13:06:54,609 - INFO - Frame completed - Time: 0.9883s, FPS: 1.01
+2024-11-27 13:06:54,697 - INFO - AI simulation completed in 0.0868 seconds
+2024-11-27 13:06:55,011 - INFO - Frame rendered in 0.4012 seconds
+2024-11-27 13:06:55,605 - INFO - Physics simulation completed in 0.9894 seconds
+2024-11-27 13:06:55,606 - INFO - Frame completed - Time: 0.9958s, FPS: 1.00
+2024-11-27 13:06:55,708 - INFO - AI simulation completed in 0.1013 seconds
+2024-11-27 13:06:56,011 - INFO - Frame rendered in 0.4053 seconds
+2024-11-27 13:06:56,602 - INFO - Physics simulation completed in 0.9903 seconds
+2024-11-27 13:06:56,603 - INFO - Frame completed - Time: 0.9967s, FPS: 1.00
+2024-11-27 13:06:56,687 - INFO - AI simulation completed in 0.0834 seconds
+2024-11-27 13:06:57,006 - INFO - Frame rendered in 0.4022 seconds
+2024-11-27 13:06:57,609 - INFO - Physics simulation completed in 0.9992 seconds
+2024-11-27 13:06:57,609 - INFO - Frame completed - Time: 1.0057s, FPS: 0.99
+2024-11-27 13:06:57,697 - INFO - AI simulation completed in 0.0870 seconds
+2024-11-27 13:06:58,016 - INFO - Frame rendered in 0.4069 seconds
+2024-11-27 13:06:58,620 - INFO - Physics simulation completed in 1.0037 seconds
+2024-11-27 13:06:58,621 - INFO - Frame completed - Time: 1.0114s, FPS: 0.99
+2024-11-27 13:06:58,834 - INFO - AI simulation completed in 0.2125 seconds
+2024-11-27 13:07:01,808 - INFO - Frame rendered in 3.1868 seconds
+2024-11-27 13:07:02,667 - INFO - Physics simulation completed in 4.0125 seconds
+2024-11-27 13:07:02,668 - INFO - Frame completed - Time: 4.0463s, FPS: 0.25
+2024-11-27 13:07:02,887 - INFO - AI simulation completed in 0.2182 seconds
+2024-11-27 13:07:05,792 - INFO - Frame rendered in 3.1233 seconds
+2024-11-27 13:07:06,666 - INFO - Physics simulation completed in 3.9963 seconds
+2024-11-27 13:07:06,666 - INFO - Frame completed - Time: 3.9979s, FPS: 0.25
+2024-11-27 13:07:06,876 - INFO - AI simulation completed in 0.2089 seconds
+2024-11-27 13:07:09,221 - INFO - Frame rendered in 2.5545 seconds
+2024-11-27 13:07:10,106 - INFO - Physics simulation completed in 3.4382 seconds
+2024-11-27 13:07:10,106 - INFO - Frame completed - Time: 3.4397s, FPS: 0.29
+2024-11-27 13:07:10,341 - INFO - AI simulation completed in 0.2335 seconds
+2024-11-27 13:07:13,208 - INFO - Frame rendered in 3.1016 seconds
+2024-11-27 13:07:14,080 - INFO - Physics simulation completed in 3.9720 seconds
+2024-11-27 13:07:14,080 - INFO - Frame completed - Time: 3.9737s, FPS: 0.25
+2024-11-27 13:07:14,304 - INFO - AI simulation completed in 0.2135 seconds
+2024-11-27 13:07:17,187 - INFO - Frame rendered in 3.0973 seconds
+2024-11-27 13:07:18,046 - INFO - Physics simulation completed in 3.9545 seconds
+2024-11-27 13:07:18,046 - INFO - Frame completed - Time: 3.9563s, FPS: 0.25
+2024-11-27 13:07:18,259 - INFO - AI simulation completed in 0.2121 seconds
+2024-11-27 13:07:21,221 - INFO - Frame rendered in 3.1746 seconds
+2024-11-27 13:07:22,132 - INFO - Physics simulation completed in 4.0647 seconds
+2024-11-27 13:07:22,133 - INFO - Frame completed - Time: 4.0865s, FPS: 0.24
+2024-11-27 13:07:22,357 - INFO - AI simulation completed in 0.2228 seconds
+2024-11-27 13:07:25,272 - INFO - Frame rendered in 3.1388 seconds
+2024-11-27 13:07:26,136 - INFO - Physics simulation completed in 4.0014 seconds
+2024-11-27 13:07:26,136 - INFO - Frame completed - Time: 4.0032s, FPS: 0.25
+2024-11-27 13:07:26,343 - INFO - AI simulation completed in 0.2054 seconds
+2024-11-27 13:07:29,309 - INFO - Frame rendered in 3.1719 seconds
+2024-11-27 13:07:30,138 - INFO - Physics simulation completed in 3.9796 seconds
+2024-11-27 13:07:30,139 - INFO - Frame completed - Time: 4.0017s, FPS: 0.25
+2024-11-27 13:07:30,372 - INFO - AI simulation completed in 0.2325 seconds
+2024-11-27 13:07:33,276 - INFO - Frame rendered in 3.1367 seconds
+2024-11-27 13:07:34,168 - INFO - Physics simulation completed in 4.0058 seconds
+2024-11-27 13:07:34,168 - INFO - Frame completed - Time: 4.0293s, FPS: 0.25
+2024-11-27 13:07:34,385 - INFO - AI simulation completed in 0.2155 seconds
+2024-11-27 13:07:37,333 - INFO - Frame rendered in 3.1645 seconds
+2024-11-27 13:07:38,185 - INFO - Physics simulation completed in 3.9932 seconds
+2024-11-27 13:07:38,186 - INFO - Frame completed - Time: 4.0170s, FPS: 0.25
+2024-11-27 13:07:38,396 - INFO - AI simulation completed in 0.2088 seconds
+2024-11-27 13:07:40,697 - INFO - Frame rendered in 2.5110 seconds
+2024-11-27 13:07:41,561 - INFO - Physics simulation completed in 3.3737 seconds
+2024-11-27 13:07:41,561 - INFO - Frame completed - Time: 3.3752s, FPS: 0.30
+2024-11-27 13:13:00,875 - INFO - Physics simulation completed in 0.0431 seconds
+2024-11-27 13:13:00,926 - INFO - Frame rendered in 0.0505 seconds
+2024-11-27 13:13:00,956 - INFO - Physics simulation completed in 0.0289 seconds
+2024-11-27 13:13:00,977 - INFO - Frame rendered in 0.0506 seconds
+2024-11-27 13:13:01,007 - INFO - Physics simulation completed in 0.0268 seconds
+2024-11-27 13:13:01,029 - INFO - Frame rendered in 0.0505 seconds
+2024-11-27 13:13:27,142 - INFO - AI simulation completed in 0.0353 seconds
+2024-11-27 13:13:27,194 - INFO - Physics simulation completed in 0.0519 seconds
+2024-11-27 13:13:27,244 - INFO - Frame rendered in 0.0499 seconds
+2024-11-27 13:13:27,278 - INFO - Physics simulation completed in 0.0312 seconds
+2024-11-27 13:13:27,308 - INFO - Frame rendered in 0.0630 seconds
+2024-11-27 13:13:27,312 - INFO - AI simulation completed in 0.0345 seconds
+2024-11-27 13:13:27,313 - INFO - Frame completed - Time: 0.0683s, FPS: 14.64
+2024-11-27 13:13:27,358 - INFO - Physics simulation completed in 0.0435 seconds
+2024-11-27 13:13:27,378 - INFO - Frame rendered in 0.0644 seconds
+2024-11-27 13:13:27,393 - INFO - AI simulation completed in 0.0346 seconds
+2024-11-27 13:13:27,393 - INFO - Frame completed - Time: 0.0799s, FPS: 12.52
+2024-11-27 13:13:27,441 - INFO - Physics simulation completed in 0.0462 seconds
+2024-11-27 13:13:27,462 - INFO - Frame rendered in 0.0680 seconds
+2024-11-27 13:13:27,477 - INFO - AI simulation completed in 0.0359 seconds
+2024-11-27 13:13:27,478 - INFO - Frame completed - Time: 0.0837s, FPS: 11.95
+2024-11-27 13:13:27,523 - INFO - Physics simulation completed in 0.0440 seconds
+2024-11-27 13:13:27,543 - INFO - Frame rendered in 0.0654 seconds
+2024-11-27 13:13:27,557 - INFO - AI simulation completed in 0.0337 seconds
+2024-11-27 13:13:27,557 - INFO - Frame completed - Time: 0.0794s, FPS: 12.60
+2024-11-27 13:13:27,609 - INFO - Physics simulation completed in 0.0505 seconds
+2024-11-27 13:13:27,610 - INFO - Frame rendered in 0.0521 seconds
+2024-11-27 13:13:27,643 - INFO - AI simulation completed in 0.0343 seconds
+2024-11-27 13:13:27,644 - INFO - Frame completed - Time: 0.0863s, FPS: 11.58
+2024-11-27 13:13:27,692 - INFO - Physics simulation completed in 0.0464 seconds
+2024-11-27 13:13:27,716 - INFO - Frame rendered in 0.0718 seconds
+2024-11-27 13:13:27,725 - INFO - AI simulation completed in 0.0335 seconds
+2024-11-27 13:13:27,726 - INFO - Frame completed - Time: 0.0812s, FPS: 12.31
+2024-11-27 13:13:27,779 - INFO - Frame rendered in 0.0526 seconds
+2024-11-27 13:13:27,781 - INFO - Physics simulation completed in 0.0543 seconds
+2024-11-27 13:13:27,814 - INFO - AI simulation completed in 0.0349 seconds
+2024-11-27 13:13:27,815 - INFO - Frame completed - Time: 0.0886s, FPS: 11.29
+2024-11-27 13:13:27,866 - INFO - Frame rendered in 0.0510 seconds
+2024-11-27 13:13:27,868 - INFO - Physics simulation completed in 0.0527 seconds
+2024-11-27 13:13:27,900 - INFO - AI simulation completed in 0.0338 seconds
+2024-11-27 13:13:27,901 - INFO - Frame completed - Time: 0.0858s, FPS: 11.65
+2024-11-27 13:13:27,949 - INFO - Physics simulation completed in 0.0466 seconds
+2024-11-27 13:13:27,951 - INFO - Frame rendered in 0.0499 seconds
+2024-11-27 13:13:27,982 - INFO - AI simulation completed in 0.0330 seconds
+2024-11-27 13:13:27,983 - INFO - Frame completed - Time: 0.0812s, FPS: 12.32
+2024-11-27 13:13:28,030 - INFO - Physics simulation completed in 0.0456 seconds
+2024-11-27 13:13:28,045 - INFO - Frame rendered in 0.0618 seconds
+2024-11-27 13:13:28,065 - INFO - AI simulation completed in 0.0354 seconds
+2024-11-27 13:13:28,066 - INFO - Frame completed - Time: 0.0829s, FPS: 12.06
+2024-11-27 13:13:28,118 - INFO - Physics simulation completed in 0.0503 seconds
+2024-11-27 13:13:28,118 - INFO - Frame rendered in 0.0517 seconds
+2024-11-27 13:13:28,154 - INFO - AI simulation completed in 0.0356 seconds
+2024-11-27 13:13:28,154 - INFO - Frame completed - Time: 0.0877s, FPS: 11.40
+2024-11-27 13:13:28,207 - INFO - Frame rendered in 0.0522 seconds
+2024-11-27 13:13:28,207 - INFO - Physics simulation completed in 0.0520 seconds
+2024-11-27 13:13:28,261 - INFO - AI simulation completed in 0.0537 seconds
+2024-11-27 13:13:28,262 - INFO - Frame completed - Time: 0.1070s, FPS: 9.35
+2024-11-27 13:13:28,356 - INFO - AI simulation completed in 0.0936 seconds
+2024-11-27 13:13:28,679 - INFO - Frame rendered in 0.4164 seconds
+2024-11-27 13:13:29,252 - INFO - Physics simulation completed in 0.9884 seconds
+2024-11-27 13:13:29,252 - INFO - Frame completed - Time: 0.9899s, FPS: 1.01
+2024-11-27 13:13:29,336 - INFO - AI simulation completed in 0.0832 seconds
+2024-11-27 13:13:29,656 - INFO - Frame rendered in 0.4037 seconds
+2024-11-27 13:13:29,642 - INFO - Physics simulation completed in 0.3889 seconds
+2024-11-27 13:13:29,643 - INFO - Frame completed - Time: 0.3903s, FPS: 2.56
+2024-11-27 13:13:29,728 - INFO - AI simulation completed in 0.0846 seconds
+2024-11-27 13:13:30,035 - INFO - Frame rendered in 0.3916 seconds
+2024-11-27 13:13:30,603 - INFO - Physics simulation completed in 0.9593 seconds
+2024-11-27 13:13:30,604 - INFO - Frame completed - Time: 0.9605s, FPS: 1.04
+2024-11-27 13:13:30,687 - INFO - AI simulation completed in 0.0820 seconds
+2024-11-27 13:13:30,996 - INFO - Frame rendered in 0.3919 seconds
+2024-11-27 13:13:31,572 - INFO - Physics simulation completed in 0.9671 seconds
+2024-11-27 13:13:31,572 - INFO - Frame completed - Time: 0.9683s, FPS: 1.03
+2024-11-27 13:13:31,652 - INFO - AI simulation completed in 0.0785 seconds
+2024-11-27 13:13:31,962 - INFO - Frame rendered in 0.3888 seconds
+2024-11-27 13:13:32,522 - INFO - Physics simulation completed in 0.9483 seconds
+2024-11-27 13:13:32,522 - INFO - Frame completed - Time: 0.9495s, FPS: 1.05
+2024-11-27 13:13:32,603 - INFO - AI simulation completed in 0.0801 seconds
+2024-11-27 13:13:32,924 - INFO - Frame rendered in 0.4016 seconds
+2024-11-27 13:13:33,477 - INFO - Physics simulation completed in 0.9531 seconds
+2024-11-27 13:13:33,477 - INFO - Frame completed - Time: 0.9544s, FPS: 1.05
+2024-11-27 13:13:33,563 - INFO - AI simulation completed in 0.0848 seconds
+2024-11-27 13:13:33,872 - INFO - Frame rendered in 0.3940 seconds
+2024-11-27 13:13:34,471 - INFO - Physics simulation completed in 0.9924 seconds
+2024-11-27 13:13:34,471 - INFO - Frame completed - Time: 0.9938s, FPS: 1.01
+2024-11-27 13:13:34,553 - INFO - AI simulation completed in 0.0811 seconds
+2024-11-27 13:13:34,869 - INFO - Frame rendered in 0.3972 seconds
+2024-11-27 13:13:35,422 - INFO - Physics simulation completed in 0.9497 seconds
+2024-11-27 13:13:35,423 - INFO - Frame completed - Time: 0.9508s, FPS: 1.05
+2024-11-27 13:13:35,547 - INFO - AI simulation completed in 0.1231 seconds
+2024-11-27 13:13:35,871 - INFO - Frame rendered in 0.4476 seconds
+2024-11-27 13:13:36,474 - INFO - Physics simulation completed in 1.0500 seconds
+2024-11-27 13:13:36,474 - INFO - Frame completed - Time: 1.0514s, FPS: 0.95
+2024-11-27 13:13:36,560 - INFO - AI simulation completed in 0.0851 seconds
+2024-11-27 13:13:36,877 - INFO - Frame rendered in 0.4021 seconds
+2024-11-27 13:13:37,452 - INFO - Physics simulation completed in 0.9766 seconds
+2024-11-27 13:13:37,453 - INFO - Frame completed - Time: 0.9780s, FPS: 1.02
+2024-11-27 13:13:37,546 - INFO - AI simulation completed in 0.0920 seconds
+2024-11-27 13:13:37,856 - INFO - Frame rendered in 0.4028 seconds
+2024-11-27 13:13:38,418 - INFO - Physics simulation completed in 0.9642 seconds
+2024-11-27 13:13:38,419 - INFO - Frame completed - Time: 0.9655s, FPS: 1.04
+2024-11-27 13:13:38,641 - INFO - AI simulation completed in 0.2206 seconds
+2024-11-27 13:13:41,550 - INFO - Frame rendered in 3.1300 seconds
+2024-11-27 13:13:42,433 - INFO - Physics simulation completed in 3.9919 seconds
+2024-11-27 13:13:42,433 - INFO - Frame completed - Time: 4.0138s, FPS: 0.25
+2024-11-27 13:13:42,643 - INFO - AI simulation completed in 0.2081 seconds
+2024-11-27 13:13:45,538 - INFO - Frame rendered in 3.1035 seconds
+2024-11-27 13:13:46,418 - INFO - Physics simulation completed in 3.9823 seconds
+2024-11-27 13:13:46,419 - INFO - Frame completed - Time: 3.9843s, FPS: 0.25
+2024-11-27 13:13:46,632 - INFO - AI simulation completed in 0.2114 seconds
+2024-11-27 13:13:49,525 - INFO - Frame rendered in 3.1055 seconds
+2024-11-27 13:13:50,467 - INFO - Physics simulation completed in 4.0249 seconds
+2024-11-27 13:13:50,467 - INFO - Frame completed - Time: 4.0471s, FPS: 0.25
+2024-11-27 13:13:50,703 - INFO - AI simulation completed in 0.2355 seconds
+2024-11-27 13:13:53,695 - INFO - Frame rendered in 3.2273 seconds
+2024-11-27 13:13:54,562 - INFO - Physics simulation completed in 4.0935 seconds
+2024-11-27 13:13:54,562 - INFO - Frame completed - Time: 4.0951s, FPS: 0.24
+2024-11-27 13:13:54,788 - INFO - AI simulation completed in 0.2141 seconds
+2024-11-27 13:13:57,737 - INFO - Frame rendered in 3.1641 seconds
+2024-11-27 13:13:58,611 - INFO - Physics simulation completed in 4.0162 seconds
+2024-11-27 13:13:58,611 - INFO - Frame completed - Time: 4.0385s, FPS: 0.25
+2024-11-27 13:13:58,825 - INFO - AI simulation completed in 0.2127 seconds
+2024-11-27 13:14:01,152 - INFO - Frame rendered in 2.5396 seconds
+2024-11-27 13:14:02,019 - INFO - Physics simulation completed in 3.4057 seconds
+2024-11-27 13:14:02,020 - INFO - Frame completed - Time: 3.4078s, FPS: 0.29
+2024-11-27 13:14:02,233 - INFO - AI simulation completed in 0.2113 seconds
+2024-11-27 13:14:05,139 - INFO - Frame rendered in 3.1186 seconds
+2024-11-27 13:14:06,046 - INFO - Physics simulation completed in 4.0046 seconds
+2024-11-27 13:14:06,047 - INFO - Frame completed - Time: 4.0261s, FPS: 0.25
+2024-11-27 13:14:06,266 - INFO - AI simulation completed in 0.2084 seconds
+2024-11-27 13:14:09,172 - INFO - Frame rendered in 3.1150 seconds
+2024-11-27 13:14:10,053 - INFO - Physics simulation completed in 3.9951 seconds
+2024-11-27 13:14:10,054 - INFO - Frame completed - Time: 3.9968s, FPS: 0.25
+2024-11-27 13:14:10,306 - INFO - AI simulation completed in 0.2502 seconds
+2024-11-27 13:14:13,224 - INFO - Frame rendered in 3.1686 seconds
+2024-11-27 13:14:14,153 - INFO - Physics simulation completed in 4.0761 seconds
+2024-11-27 13:14:14,154 - INFO - Frame completed - Time: 4.0988s, FPS: 0.24
+2024-11-27 13:14:14,378 - INFO - AI simulation completed in 0.2233 seconds
+2024-11-27 13:14:17,411 - INFO - Frame rendered in 3.2567 seconds
+2024-11-27 13:14:18,292 - INFO - Physics simulation completed in 4.1151 seconds
+2024-11-27 13:14:18,293 - INFO - Frame completed - Time: 4.1387s, FPS: 0.24
+2024-11-27 13:14:18,530 - INFO - AI simulation completed in 0.2359 seconds
+2024-11-27 13:14:21,592 - INFO - Frame rendered in 3.2974 seconds
+2024-11-27 13:14:22,420 - INFO - Physics simulation completed in 4.1046 seconds
+2024-11-27 13:14:22,421 - INFO - Frame completed - Time: 4.1265s, FPS: 0.24
+2024-11-27 13:18:18,105 - INFO - AI simulation completed in 0.0351 seconds
+2024-11-27 13:18:18,148 - INFO - Physics simulation completed in 0.0433 seconds
+2024-11-27 13:18:18,197 - INFO - Frame rendered in 0.0487 seconds
+2024-11-27 13:18:18,229 - INFO - Physics simulation completed in 0.0301 seconds
+2024-11-27 13:18:18,263 - INFO - AI simulation completed in 0.0340 seconds
+2024-11-27 13:18:18,263 - INFO - Frame rendered in 0.0651 seconds
+2024-11-27 13:18:18,264 - INFO - Frame completed - Time: 0.0659s, FPS: 15.16
+2024-11-27 13:18:18,305 - INFO - Physics simulation completed in 0.0401 seconds
+2024-11-27 13:18:18,328 - INFO - Frame rendered in 0.0632 seconds
+2024-11-27 13:18:18,339 - INFO - AI simulation completed in 0.0336 seconds
+2024-11-27 13:18:18,340 - INFO - Frame completed - Time: 0.0754s, FPS: 13.26
+2024-11-27 13:18:18,390 - INFO - Frame rendered in 0.0495 seconds
+2024-11-27 13:18:18,390 - INFO - Physics simulation completed in 0.0494 seconds
+2024-11-27 13:18:18,424 - INFO - AI simulation completed in 0.0337 seconds
+2024-11-27 13:18:18,424 - INFO - Frame completed - Time: 0.0842s, FPS: 11.88
+2024-11-27 13:18:18,471 - INFO - Physics simulation completed in 0.0453 seconds
+2024-11-27 13:18:18,482 - INFO - Frame rendered in 0.0576 seconds
+2024-11-27 13:18:18,504 - INFO - AI simulation completed in 0.0330 seconds
+2024-11-27 13:18:18,504 - INFO - Frame completed - Time: 0.0799s, FPS: 12.52
+2024-11-27 13:18:18,553 - INFO - Physics simulation completed in 0.0475 seconds
+2024-11-27 13:18:18,555 - INFO - Frame rendered in 0.0498 seconds
+2024-11-27 13:18:18,587 - INFO - AI simulation completed in 0.0335 seconds
+2024-11-27 13:18:18,587 - INFO - Frame completed - Time: 0.0826s, FPS: 12.11
+2024-11-27 13:18:18,638 - INFO - Frame rendered in 0.0496 seconds
+2024-11-27 13:18:18,640 - INFO - Physics simulation completed in 0.0517 seconds
+2024-11-27 13:18:18,671 - INFO - AI simulation completed in 0.0336 seconds
+2024-11-27 13:18:18,672 - INFO - Frame completed - Time: 0.0842s, FPS: 11.88
+2024-11-27 13:18:18,720 - INFO - Physics simulation completed in 0.0472 seconds
+2024-11-27 13:18:18,722 - INFO - Frame rendered in 0.0494 seconds
+2024-11-27 13:18:18,752 - INFO - AI simulation completed in 0.0315 seconds
+2024-11-27 13:18:18,753 - INFO - Frame completed - Time: 0.0804s, FPS: 12.44
+2024-11-27 13:18:18,803 - INFO - Frame rendered in 0.0495 seconds
+2024-11-27 13:18:18,805 - INFO - Physics simulation completed in 0.0509 seconds
+2024-11-27 13:18:18,836 - INFO - AI simulation completed in 0.0322 seconds
+2024-11-27 13:18:18,837 - INFO - Frame completed - Time: 0.0831s, FPS: 12.03
+2024-11-27 13:18:18,886 - INFO - Physics simulation completed in 0.0488 seconds
+2024-11-27 13:18:18,887 - INFO - Frame rendered in 0.0497 seconds
+2024-11-27 13:18:18,919 - INFO - AI simulation completed in 0.0326 seconds
+2024-11-27 13:18:18,920 - INFO - Frame completed - Time: 0.0828s, FPS: 12.08
+2024-11-27 13:18:18,970 - INFO - Frame rendered in 0.0501 seconds
+2024-11-27 13:18:18,976 - INFO - Physics simulation completed in 0.0549 seconds
+2024-11-27 13:18:19,004 - INFO - AI simulation completed in 0.0338 seconds
+2024-11-27 13:18:19,005 - INFO - Frame completed - Time: 0.0851s, FPS: 11.76
+2024-11-27 13:18:19,055 - INFO - Frame rendered in 0.0495 seconds
+2024-11-27 13:18:19,058 - INFO - Physics simulation completed in 0.0519 seconds
+2024-11-27 13:18:19,088 - INFO - AI simulation completed in 0.0325 seconds
+2024-11-27 13:18:19,089 - INFO - Frame completed - Time: 0.0832s, FPS: 12.02
+2024-11-27 13:18:19,132 - INFO - Physics simulation completed in 0.0419 seconds
+2024-11-27 13:18:19,152 - INFO - Frame rendered in 0.0622 seconds
+2024-11-27 13:18:19,182 - INFO - AI simulation completed in 0.0501 seconds
+2024-11-27 13:18:19,183 - INFO - Frame completed - Time: 0.0935s, FPS: 10.70
+2024-11-27 13:18:19,266 - INFO - AI simulation completed in 0.0819 seconds
+2024-11-27 13:18:19,627 - INFO - Frame rendered in 0.4434 seconds
+2024-11-27 13:18:20,154 - INFO - Physics simulation completed in 0.9697 seconds
+2024-11-27 13:18:20,154 - INFO - Frame completed - Time: 0.9711s, FPS: 1.03
+2024-11-27 13:18:20,232 - INFO - AI simulation completed in 0.0766 seconds
+2024-11-27 13:18:20,556 - INFO - Frame rendered in 0.4015 seconds
+2024-11-27 13:18:21,137 - INFO - Physics simulation completed in 0.9809 seconds
+2024-11-27 13:18:21,137 - INFO - Frame completed - Time: 0.9827s, FPS: 1.02
+2024-11-27 13:18:21,227 - INFO - AI simulation completed in 0.0796 seconds
+2024-11-27 13:18:21,535 - INFO - Frame rendered in 0.3883 seconds
+2024-11-27 13:18:22,123 - INFO - Physics simulation completed in 0.9754 seconds
+2024-11-27 13:18:22,123 - INFO - Frame completed - Time: 0.9769s, FPS: 1.02
+2024-11-27 13:18:22,209 - INFO - AI simulation completed in 0.0848 seconds
+2024-11-27 13:18:22,518 - INFO - Frame rendered in 0.3945 seconds
+2024-11-27 13:18:23,098 - INFO - Physics simulation completed in 0.9686 seconds
+2024-11-27 13:18:23,099 - INFO - Frame completed - Time: 0.9750s, FPS: 1.03
+2024-11-27 13:18:23,176 - INFO - AI simulation completed in 0.0764 seconds
+2024-11-27 13:18:23,490 - INFO - Frame rendered in 0.3910 seconds
+2024-11-27 13:18:24,075 - INFO - Physics simulation completed in 0.9752 seconds
+2024-11-27 13:18:24,076 - INFO - Frame completed - Time: 0.9766s, FPS: 1.02
+2024-11-27 13:18:24,155 - INFO - AI simulation completed in 0.0783 seconds
+2024-11-27 13:18:24,471 - INFO - Frame rendered in 0.3948 seconds
+2024-11-27 13:18:25,056 - INFO - Physics simulation completed in 0.9789 seconds
+2024-11-27 13:18:25,056 - INFO - Frame completed - Time: 0.9803s, FPS: 1.02
+2024-11-27 13:18:25,136 - INFO - AI simulation completed in 0.0790 seconds
+2024-11-27 13:18:25,449 - INFO - Frame rendered in 0.3917 seconds
+2024-11-27 13:18:26,044 - INFO - Physics simulation completed in 0.9811 seconds
+2024-11-27 13:18:26,044 - INFO - Frame completed - Time: 0.9874s, FPS: 1.01
+2024-11-27 13:18:26,127 - INFO - AI simulation completed in 0.0807 seconds
+2024-11-27 13:18:26,430 - INFO - Frame rendered in 0.3847 seconds
+2024-11-27 13:18:27,005 - INFO - Physics simulation completed in 0.9575 seconds
+2024-11-27 13:18:27,005 - INFO - Frame completed - Time: 0.9607s, FPS: 1.04
+2024-11-27 13:18:27,084 - INFO - AI simulation completed in 0.0775 seconds
+2024-11-27 13:18:27,401 - INFO - Frame rendered in 0.3949 seconds
+2024-11-27 13:18:27,964 - INFO - Physics simulation completed in 0.9511 seconds
+2024-11-27 13:18:27,964 - INFO - Frame completed - Time: 0.9582s, FPS: 1.04
+2024-11-27 13:18:28,068 - INFO - AI simulation completed in 0.1028 seconds
+2024-11-27 13:18:28,358 - INFO - Frame rendered in 0.3931 seconds
+2024-11-27 13:18:28,968 - INFO - Physics simulation completed in 1.0031 seconds
+2024-11-27 13:18:28,969 - INFO - Frame completed - Time: 1.0044s, FPS: 1.00
+2024-11-27 13:18:29,049 - INFO - AI simulation completed in 0.0793 seconds
+2024-11-27 13:18:29,362 - INFO - Frame rendered in 0.3929 seconds
+2024-11-27 13:18:29,951 - INFO - Physics simulation completed in 0.9811 seconds
+2024-11-27 13:18:29,952 - INFO - Frame completed - Time: 0.9824s, FPS: 1.02
+2024-11-27 13:18:30,161 - INFO - AI simulation completed in 0.2083 seconds
+2024-11-27 13:18:33,045 - INFO - Frame rendered in 3.0926 seconds
+2024-11-27 13:18:33,945 - INFO - Physics simulation completed in 3.9908 seconds
+2024-11-27 13:18:33,945 - INFO - Frame completed - Time: 3.9927s, FPS: 0.25
+2024-11-27 13:18:34,151 - INFO - AI simulation completed in 0.2053 seconds
+2024-11-27 13:18:37,092 - INFO - Frame rendered in 3.1470 seconds
+2024-11-27 13:18:37,995 - INFO - Physics simulation completed in 4.0487 seconds
+2024-11-27 13:18:37,995 - INFO - Frame completed - Time: 4.0501s, FPS: 0.25
+2024-11-27 13:18:38,204 - INFO - AI simulation completed in 0.2071 seconds
+2024-11-27 13:18:41,177 - INFO - Frame rendered in 3.1801 seconds
+2024-11-27 13:18:42,046 - INFO - Physics simulation completed in 4.0285 seconds
+2024-11-27 13:18:42,046 - INFO - Frame completed - Time: 4.0500s, FPS: 0.25
+2024-11-27 13:18:42,277 - INFO - AI simulation completed in 0.2299 seconds
+2024-11-27 13:18:45,216 - INFO - Frame rendered in 3.1691 seconds
+2024-11-27 13:18:46,106 - INFO - Physics simulation completed in 4.0341 seconds
+2024-11-27 13:18:46,107 - INFO - Frame completed - Time: 4.0599s, FPS: 0.25
+2024-11-27 13:18:46,317 - INFO - AI simulation completed in 0.2087 seconds
+2024-11-27 13:18:48,616 - INFO - Frame rendered in 2.5081 seconds
+2024-11-27 13:18:49,535 - INFO - Physics simulation completed in 3.4064 seconds
+2024-11-27 13:18:49,536 - INFO - Frame completed - Time: 3.4280s, FPS: 0.29
+2024-11-27 13:18:49,744 - INFO - AI simulation completed in 0.2076 seconds
+2024-11-27 13:18:52,655 - INFO - Frame rendered in 3.1183 seconds
+2024-11-27 13:18:53,518 - INFO - Physics simulation completed in 3.9810 seconds
+2024-11-27 13:18:53,519 - INFO - Frame completed - Time: 3.9824s, FPS: 0.25
+2024-11-27 13:18:53,723 - INFO - AI simulation completed in 0.2033 seconds
+2024-11-27 13:18:56,613 - INFO - Frame rendered in 3.0935 seconds
+2024-11-27 13:18:57,515 - INFO - Physics simulation completed in 3.9737 seconds
+2024-11-27 13:18:57,515 - INFO - Frame completed - Time: 3.9957s, FPS: 0.25
+2024-11-27 13:18:57,725 - INFO - AI simulation completed in 0.2085 seconds
+2024-11-27 13:19:00,602 - INFO - Frame rendered in 3.0856 seconds
+2024-11-27 13:19:01,505 - INFO - Physics simulation completed in 3.9664 seconds
+2024-11-27 13:19:01,505 - INFO - Frame completed - Time: 3.9895s, FPS: 0.25
+2024-11-27 13:19:01,733 - INFO - AI simulation completed in 0.2265 seconds
+2024-11-27 13:19:04,585 - INFO - Frame rendered in 3.0794 seconds
+2024-11-27 13:19:05,494 - INFO - Physics simulation completed in 3.9874 seconds
+2024-11-27 13:19:05,495 - INFO - Frame completed - Time: 3.9890s, FPS: 0.25
+2024-11-27 13:19:05,704 - INFO - AI simulation completed in 0.2075 seconds
+2024-11-27 13:19:08,590 - INFO - Frame rendered in 3.0937 seconds
+2024-11-27 13:19:09,493 - INFO - Physics simulation completed in 3.9759 seconds
+2024-11-27 13:19:09,494 - INFO - Frame completed - Time: 3.9978s, FPS: 0.25
+2024-11-27 13:19:09,698 - INFO - AI simulation completed in 0.2030 seconds
+2024-11-27 13:19:12,607 - INFO - Frame rendered in 3.1121 seconds
+2024-11-27 13:19:13,502 - INFO - Physics simulation completed in 3.9861 seconds
+2024-11-27 13:19:13,502 - INFO - Frame completed - Time: 4.0076s, FPS: 0.25
