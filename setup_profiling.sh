@@ -32,7 +32,7 @@ tmux send-keys -t $SESSION:0.2 "python3 monitors/plotgpu.py" C-m
 
 # Select left pane and run first script (gaming workload simulation)
 tmux select-pane -t $SESSION:0.0
-tmux send-keys -t $SESSION:0.0 "python3 main.py" C-m
+tmux send-keys -t $SESSION:0.0 "python3 realtime/main.py" C-m
 
 # Set the layout to main-vertical and adjust pane sizes
 tmux select-layout -t $SESSION main-vertical
