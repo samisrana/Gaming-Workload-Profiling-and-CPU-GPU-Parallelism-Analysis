@@ -34,5 +34,5 @@ Simulation Results:
 - GPU Version:
   * Light workload: ~7 FPS
   * CPU usage: ~6%
-  * GPU utilization: 20% → 8.5% → 1.5%
+  * GPU utilization: 30% → 50% → 75%
   * GPU memory scaling: 1900MB → 3200MB
