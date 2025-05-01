@@ -204,7 +204,7 @@ These results demonstrate the efficiency of GPU acceleration for graphics-intens
 
 ### Real Game Performance Analysis: Rocket League
 
-A real-world performance analysis of Rocket League demonstrates the practical application of our monitoring tools:
+A real-world performance analysis of Rocket League demonstrates the practical application of the monitoring tools:
 
 #### Resource Utilization Patterns
 ![CPU-GPU Usage Pattern](images/CPU-GPUrocketleague.png)
@@ -250,7 +250,7 @@ The analysis reveals efficient CPU-GPU load balancing with no significant bottle
 - Average Memory Usage: 44.2%
 
 #### Comparison with Phase 1 Simulation
-Our simulation results showed:
+simulation results showed:
 - CPU Version:
   * Light workload (720p, 2 threads): ~22 FPS
   * Medium workload (1080p, 4 threads): ~10 FPS
@@ -264,14 +264,14 @@ Our simulation results showed:
   * GPU memory scales linearly: 1500MB → 2000MB → 3000MB
   * CPU usage increases with resolution: 25% → 35% → 50%
 
-These simulation results contrast with the real game performance, demonstrating the optimization potential in professional game engines compared to our simulation models.
+These simulation results contrast with the real game performance, demonstrating the optimization potential in professional game engines compared to simulation models.
 
 ## Final Thoughts
 
-Our research and development have yielded several significant achievements:
+Research and development have yielded several significant achievements:
 
 - Successfully developed a foundational gaming workload simulation that accurately models CPU-GPU interaction patterns seen in production games
-- Validated simulation insights against real-world data from Rocket League, confirming our model's ability to predict resource utilization patterns
+- Validated simulation insights against real-world data from Rocket League, confirming the model's ability to predict resource utilization patterns
 - Established a comprehensive profiling methodology combining simulation baselines with real-time monitoring
 - Demonstrated the effectiveness of GPU acceleration, achieving up to 7x performance improvement over CPU-only implementation
 - Identified efficient resource management patterns in commercial games, particularly in areas of power scaling and memory utilization
